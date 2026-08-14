@@ -1,0 +1,16 @@
+{
+  "name": "s0ul-666ax",
+  "version": "0.1.0",
+  "description": "S0UL-666AX — clean-room action-rpg core (deterministic).",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "vitest": "^2.0.0"
+  },
+  "license": "MIT"
+}
